@@ -31,8 +31,8 @@
 
 # variables
 SERVER=atom
-LV_SERVER=/dev/vg_relucent/lv_servers
-LV_SNAPSHOT=/dev/vg_relucent/lv_snapshot
+LV_SERVER=/dev/vg01/lv_servers
+LV_SNAPSHOT=/dev/vg01/lv_snapshot
 LV_SNAPSHOT_SIZE=10G
 LOG=/var/log/snapshot.log
 MP_BACKUP=/backup
